@@ -6,3 +6,6 @@ https://github.com/openai/math/tree/main/preprints/Snaky-in-21-Maker-moves-Septe
 
 The definition of a proof sequence can be found here:
 https://math.colgate.edu/~integers/cgi-bin/get.cgi
+
+A strategy on a 15x15 board is available at 
+https://github.com/gotrevor/snaky-15x15/blob/main/docs/notes/snaky.md
