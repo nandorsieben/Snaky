@@ -1,7 +1,7 @@
 # Snaky
-Proof sequence for Snaky
+Proof sequences for Snaky
 
-The proof sequence is based on the strategies described at 
+The proof sequences are based on the strategies described at 
 https://github.com/openai/math/tree/main/preprints/Snaky-in-21-Maker-moves-September-25-2026
 
 The definition of a proof sequence can be found at
